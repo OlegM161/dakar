@@ -41,6 +41,23 @@
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-3" target="EHXcdM6yGb4Hflx0Ipde-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EHXcdM6yGb4Hflx0Ipde-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-3" target="EHXcdM6yGb4Hflx0Ipde-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHXcdM6yGb4Hflx0Ipde-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-3" target="EHXcdM6yGb4Hflx0Ipde-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHXcdM6yGb4Hflx0Ipde-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-3" target="EHXcdM6yGb4Hflx0Ipde-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHXcdM6yGb4Hflx0Ipde-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-3" target="EHXcdM6yGb4Hflx0Ipde-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="315" />
+              <mxPoint x="840" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-3" value="НастройкиЗагрузкиXML" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="170" height="30" as="geometry" />
         </mxCell>
@@ -81,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-15" value="Форма списка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="630" y="370" width="170" height="30" as="geometry" />
+          <mxGeometry x="530" y="395" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-16" target="EHXcdM6yGb4Hflx0Ipde-25">
           <mxGeometry relative="1" as="geometry" />
@@ -105,10 +122,10 @@
           <mxGeometry x="1200" y="330" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-30" value="Условное оформление&lt;div&gt;24 часа с последнего прихода&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="450" width="190" height="50" as="geometry" />
+          <mxGeometry x="520" y="465" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-37" value="Расписание (ТЧ)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="950" y="940" width="170" height="30" as="geometry" />
+          <mxGeometry x="950" y="920" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-40" target="EHXcdM6yGb4Hflx0Ipde-43">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-41" value="ТипыЦен (ТЧ)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="940" y="760" width="170" height="30" as="geometry" />
+          <mxGeometry x="950" y="760" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EHXcdM6yGb4Hflx0Ipde-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EHXcdM6yGb4Hflx0Ipde-42" target="EHXcdM6yGb4Hflx0Ipde-63">
           <mxGeometry relative="1" as="geometry" />
